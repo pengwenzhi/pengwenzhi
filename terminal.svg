@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Peng Wenzhi — AI and LLM Engineer</title>
+  <desc id="desc">A terminal-style profile header</desc>
+  <rect width="1200" height="340" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="1198" height="338" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="34" cy="31" r="7" fill="#ff5f56"/>
+  <circle cx="58" cy="31" r="7" fill="#ffbd2e"/>
+  <circle cx="82" cy="31" r="7" fill="#27c93f"/>
+  <text x="600" y="38" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="16">peng@github:~</text>
+  <line x1="0" y1="58" x2="1200" y2="58" stroke="#30363d"/>
+  <text x="54" y="112" fill="#3fb950" font-family="monospace" font-size="24">peng@github:~$</text>
+  <text x="290" y="112" fill="#c9d1d9" font-family="monospace" font-size="24">whoami</text>
+  <text x="54" y="174" fill="#58a6ff" font-family="monospace" font-size="42" font-weight="700">Peng Wenzhi</text>
+  <text x="54" y="220" fill="#c9d1d9" font-family="monospace" font-size="25">AI / LLM Engineer</text>
+  <text x="54" y="267" fill="#8b949e" font-family="monospace" font-size="20">LLM Evaluation  |  Long Context  |  Model Serving</text>
+  <text x="54" y="310" fill="#3fb950" font-family="monospace" font-size="19">Building reproducible AI systems_</text>
+</svg>
