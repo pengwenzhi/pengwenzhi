@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=%24+whoami;Peng+Wenzhi+%7C+AI+%26+LLM+Engineer;Building+models%2C+evals%2C+and+reproducible+systems" alt="Typing SVG" />
+  <br />
   <img src="./terminal.svg" width="100%" alt="Peng Wenzhi — AI and LLM Engineer" />
 </div>
 
